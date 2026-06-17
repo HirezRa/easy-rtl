@@ -2,7 +2,7 @@
 
 מדיניות פרטיות לתוסף Chrome **Easy RTL**.
 
-**Privacy policy:** [PRIVACY.md](./PRIVACY.md) · [GitHub Pages](https://hirezra.github.io/easy-rtl/PRIVACY.html)
+**Privacy policy:** [PRIVACY.md](./PRIVACY.md) · [GitHub Pages](https://hirezra.github.io/easy-rtl/PRIVACY)
 
 ---
 
